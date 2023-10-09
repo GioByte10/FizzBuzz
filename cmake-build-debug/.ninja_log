@@ -1,0 +1,10 @@
+# ninja log v5
+1	1012	7185964927506162	CMakeFiles/Week2.dir/main.cpp.obj	6322265baccfc67f
+13	1025	7185964927652839	CMakeFiles/Week2.dir/FizzBuzz.cpp.obj	a4b9c8e0345c7e8
+1026	1243	7185964929746974	Week2.exe	6cddd99fd526db4e
+6	924	7185969233358407	CMakeFiles/Week2.dir/FizzBuzz.cpp.obj	a4b9c8e0345c7e8
+15	823	7185969626386746	CMakeFiles/Week2.dir/main.cpp.obj	6322265baccfc67f
+6	852	7185969626662711	CMakeFiles/Week2.dir/FizzBuzz.cpp.obj	a4b9c8e0345c7e8
+852	1049	7185969628572673	Week2.exe	6cddd99fd526db4e
+6	828	7185969806213759	CMakeFiles/Week2.dir/FizzBuzz.cpp.obj	a4b9c8e0345c7e8
+829	1029	7185969808156705	Week2.exe	6cddd99fd526db4e
